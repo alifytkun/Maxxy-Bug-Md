@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
+return`━━━❲ YT ALIF GTPS ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃🖇️ ID : @${sender.split('@')[0]}
@@ -19,6 +19,7 @@ return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
 ┃🔖 Terdaftar : ${usernya}
 ┃🔒 Room Chat : ${romnya}
 ┃📝 Total Fitur : 600+
+┃🌐 ADD FEATURE SCRIPT GT
 ┣━━━━━━━━━━━━━
 ┣━❲ 𝙈𝘼𝙄𝙉 𝙈𝙀𝙉𝙐 ❳
 ┃⭐ ${prefix}menu
@@ -700,7 +701,7 @@ return`━━━❲ 𝙔𝙩 𝙈𝙖𝙭𝙭𝙮 𝘽𝙤𝙩𝙯 ❳━━━
 ┃⭐ ${prefix}nsfw_avatar
 ┗━━━━━━━━━━━━\n
 ☕Sc:chat owner
-☎️Pemilik bot: https://wa.me//6285380166282
+☎️Pemilik bot: https://wa.me//62882020829682
 `
 }
 
@@ -726,14 +727,14 @@ return`──「 *MENU DONATE* 」──
 Hi Kak *${cekName}* ${ucapanWaktu} 👋🏻
 
 *Payment Pulsa Telkom*
-Number: 085295374964
+Number: 082350060897
 
 *Payment Dana*
-Number: 085380166282
+Number: 082350060897
 A/N: kahfiaja
 
 *Payment Gopay*
-Number: 
+Number: 082350060897
 A/N:
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
@@ -745,17 +746,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ
- • *Umur:* 17 tahun
- • *Hoby:* Turu/Game
- • *Askot:* Indonesia,Aceh Timur
+ • *Nama:* ALIF XXX
+ • *Umur:* 15
+ • *Hoby:* ML/TURU/GT
+ • *Askot:* Indonesia,Balikpapan Selatan
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 085380166282
- • *Youtube:* Yt Maxxy Botz 
- • *Github:* Frezzy-XD
+ • *Whatsapp:* 0882020829682
+ • *Youtube:* YT ALIFGTPS 
+ • *Github:* ALIF-XD
  `
 }

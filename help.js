@@ -11,6 +11,9 @@ return`━━━❲ YT ALIF GTPS ❳━━━
 ┃🖇️ ID : @${sender.split('@')[0]}
 ┃🎟️ Nama : ${namenya}
 ┃💳 Premium : ${premnya}
+┃🆕 REME QEME LINK: NERXGAR
+┃🎦 ALWAYS REC BEFORE PLAY
+┃LINK: NERKUN, NERXGAR, GARCOME
 ┣━━━━━━━━━━━━━━
 ┣━( 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 )
 ┃💻 Library : Baileys-MD
@@ -474,7 +477,7 @@ return`━━━❲ YT ALIF GTPS ❳━━━
 ┃🍁 ${prefix}cerpen-bahasadaerah
 ┃🍁 ${prefix}cerpen-anak
 ┣━━━━━━━━━━━━━━
-┣━❲ 𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐 ❳
+┣━❲ 𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐 UNTUK RAMA ❳
 ┃🍁 ${prefix}yuri
 ┃🍁 ${prefix}ero
 ┃🍁 ${prefix}foot
